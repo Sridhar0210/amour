@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990217298863",
+    "project_id": "map-2001",
+    "storage_bucket": "map-2001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990217298863:android:73284e9552c275d66a855a",
+        "android_client_info": {
+          "package_name": "com.AmourGroups.amour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-nFxQVSOPMkEaQ2UmVyjIatn-yLQxf5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
